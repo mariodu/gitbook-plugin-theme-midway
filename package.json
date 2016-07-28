@@ -1,0 +1,24 @@
+{
+  "name": "gitbook-plugin-theme-midway",
+  "version": "1.0.0",
+  "description": "theme for midway docs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariodu/gitbook-plugin-theme-midway.git"
+  },
+  "keywords": [
+    "gitbook",
+    "theme",
+    "midway"
+  ],
+  "author": "mariodu - <dujiakun@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mariodu/gitbook-plugin-theme-midway/issues"
+  },
+  "homepage": "https://github.com/mariodu/gitbook-plugin-theme-midway#readme"
+}
